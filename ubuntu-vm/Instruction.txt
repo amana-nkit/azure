@@ -1,0 +1,1 @@
+Create ubuntu vm using parameter and template file
